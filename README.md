@@ -2,8 +2,6 @@
 https://github.com/uudquark/SWEHomeWork
 
 # 목차
-- [SWEHomeWork](#swehomework)
-- [목차](#--)
 - [1.config](#1config)
 - [2.init](#2init)
 - [3.add](#3add)
