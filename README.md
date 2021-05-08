@@ -158,29 +158,6 @@ https://github.com/uudquark/SWEHomeWork
 ![18](https://user-images.githubusercontent.com/16621556/117538935-fd5d1c80-b042-11eb-9be1-8fb79746e2c0.PNG)
 
 
-
-
-- [SWEHomeWork](#swehomework)
-- [목차](#--)
-- [1.config](#1config)
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- [11.새로운 브랜치에서 파일을 수정한다.](#11------------------)
-- 
-- [13.수정사항 스테이징 및 커밋](#13--------------)
-- 
-
-- 
-- 
-- 
-- 
-
 | 명령어 | 사용여부 | 링크| 
 |----|----|-----|
 | add   | O    | [3.add](#3add) |
