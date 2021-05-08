@@ -160,26 +160,45 @@ https://github.com/uudquark/SWEHomeWork
 
 
 
+- [SWEHomeWork](#swehomework)
+- [목차](#--)
+- [1.config](#1config)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- [11.새로운 브랜치에서 파일을 수정한다.](#11------------------)
+- 
+- [13.수정사항 스테이징 및 커밋](#13--------------)
+- 
 
+- 
+- 
+- 
+- 
 
 | 명령어 | 사용여부 | 링크| 
 |----|----|-----|
-| add   | O    | [add](# 3.	문서 생성 후 스테이징) |
-|branch | O | |
-|checkout| O ||
-|clone  | O |  |
-|commit | O |[4](https://user-images.githubusercontent.com/16621556/117539783-1667cc80-b047-11eb-9898-7101fecee6a0.PNG) | 
-|config | O | [config](#1.--깃-계정-설정)|
-|init  | O |[2](https://user-images.githubusercontent.com/16621556/117539762-0e0f9180-b047-11eb-83ef-946c407cc113.PNG) |
-|log  | O | [8](https://user-images.githubusercontent.com/16621556/117539769-136cdc00-b047-11eb-9f80-969b7bb29bca.PNG) |
-|merge | O | [16](https://user-images.githubusercontent.com/16621556/117539776-15369f80-b047-11eb-936b-cdb712f5d7c0.PNG) | 
-|pull  | O | [18](https://user-images.githubusercontent.com/16621556/117539780-15cf3600-b047-11eb-8266-9e1d2addc171.PNG) |
-|push  | O | [6](https://user-images.githubusercontent.com/16621556/117539767-123baf00-b047-11eb-9ca7-b7093e6dfcd8.PNG) |
-|rebase | O | [17](https://user-images.githubusercontent.com/16621556/117539777-15cf3600-b047-11eb-9881-c1f308d35a9e.PNG) |
-|remote | O |[5](https://user-images.githubusercontent.com/16621556/117539784-1667cc80-b047-11eb-8d76-a5d66675fe94.PNG) |
-|reset | O | [15](https://user-images.githubusercontent.com/16621556/117539775-15369f80-b047-11eb-9057-ad13169f388f.PNG) |
-|status| O | [12](https://user-images.githubusercontent.com/16621556/117539772-149e0900-b047-11eb-91ec-4c17d8cca283.PNG) |
-|tag   | O | [14](https://user-images.githubusercontent.com/16621556/117539773-149e0900-b047-11eb-876c-8b09955d4006.PNG) |
+| add   | O    | [3.add](#3add) |
+|branch | O |[9.branch](#9branch) |
+|checkout| O |[10.checkout](#10checkout)|
+|clone  | O | [7.clone](#7clone) |
+|commit | O |[4.commit](#4commit)| 
+|config | O | [1.config](#1config)|
+|init  | O |[2.init](#2init)|
+|log  | O | [8.log](#8log) |
+|merge | O |[16.merge](#16merge)| 
+|pull  | O |[18.pull](#18pull) |
+|push  | O | [6.push](#6push)|
+|rebase | O |[17.rebase](#17rebase)|
+|remote | O |[5.remote](#5remote) |
+|reset | O |[15.reset](#15reset)|
+|status| O |[12.status](#12status) |
+|tag   | O |[14.tag](#14tag)|
 
 
 
