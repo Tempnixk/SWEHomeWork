@@ -123,40 +123,26 @@
 
 | 명령어 | 사용여부 | 링크| 
 |----|----|-----|
-| add   | O    | [3] |
-|branch | O | [9] |
-|checkout| O | [10] |
-|clone  | O | [7] |
-|commit | O | [4] | 
-|config | O | [1] |
-|init  | O | [2] |
-|log  | O | [8] |
-|merge | O | [16] | 
-|pull  | O | [18] |
-|push  | O | [6] |
-|rebase | O | [17] |
-|remote | O | [5] |
-|reset | O | [15] |
-|status| O | [12] |
-|tag   | O | [14] |
+| add   | O    |[3](https://user-images.githubusercontent.com/16621556/117539781-1667cc80-b047-11eb-990f-00ce2c568de4.PNG)|
+|branch | O | [9](https://user-images.githubusercontent.com/16621556/117539770-14057280-b047-11eb-8177-954326ae6049.PNG) |
+|checkout| O |[10](https://user-images.githubusercontent.com/16621556/117539771-14057280-b047-11eb-9ec7-8f13fe9f3098.PNG) |
+|clone  | O | [7](https://user-images.githubusercontent.com/16621556/117539768-136cdc00-b047-11eb-9332-1fb839eff2e2.PNG) |
+|commit | O |[4](https://user-images.githubusercontent.com/16621556/117539783-1667cc80-b047-11eb-9898-7101fecee6a0.PNG) | 
+|config | O | [1](https://user-images.githubusercontent.com/16621556/117539759-0a7c0a80-b047-11eb-87aa-5137500ace32.PNG) |
+|init  | O |[2](https://user-images.githubusercontent.com/16621556/117539762-0e0f9180-b047-11eb-83ef-946c407cc113.PNG) |
+|log  | O | [8](https://user-images.githubusercontent.com/16621556/117539769-136cdc00-b047-11eb-9f80-969b7bb29bca.PNG) |
+|merge | O | [16](https://user-images.githubusercontent.com/16621556/117539776-15369f80-b047-11eb-936b-cdb712f5d7c0.PNG) | 
+|pull  | O | [18](https://user-images.githubusercontent.com/16621556/117539780-15cf3600-b047-11eb-8266-9e1d2addc171.PNG) |
+|push  | O | [6](https://user-images.githubusercontent.com/16621556/117539767-123baf00-b047-11eb-9ca7-b7093e6dfcd8.PNG) |
+|rebase | O | [17](https://user-images.githubusercontent.com/16621556/117539777-15cf3600-b047-11eb-9881-c1f308d35a9e.PNG) |
+|remote | O |[5](https://user-images.githubusercontent.com/16621556/117539784-1667cc80-b047-11eb-8d76-a5d66675fe94.PNG) |
+|reset | O | [15](https://user-images.githubusercontent.com/16621556/117539775-15369f80-b047-11eb-9057-ad13169f388f.PNG) |
+|status| O | [12](https://user-images.githubusercontent.com/16621556/117539772-149e0900-b047-11eb-91ec-4c17d8cca283.PNG) |
+|tag   | O | [14](https://user-images.githubusercontent.com/16621556/117539773-149e0900-b047-11eb-876c-8b09955d4006.PNG) |
 
 
 
 
 
-[1](https://user-images.githubusercontent.com/16621556/117539759-0a7c0a80-b047-11eb-87aa-5137500ace32.PNG)
-[2](https://user-images.githubusercontent.com/16621556/117539762-0e0f9180-b047-11eb-83ef-946c407cc113.PNG)
-[3](https://user-images.githubusercontent.com/16621556/117539781-1667cc80-b047-11eb-990f-00ce2c568de4.PNG)
-[4](https://user-images.githubusercontent.com/16621556/117539783-1667cc80-b047-11eb-9898-7101fecee6a0.PNG)
-[5](https://user-images.githubusercontent.com/16621556/117539784-1667cc80-b047-11eb-8d76-a5d66675fe94.PNG)
-[6](https://user-images.githubusercontent.com/16621556/117539767-123baf00-b047-11eb-9ca7-b7093e6dfcd8.PNG)
-[7](https://user-images.githubusercontent.com/16621556/117539768-136cdc00-b047-11eb-9332-1fb839eff2e2.PNG)
-[8](https://user-images.githubusercontent.com/16621556/117539769-136cdc00-b047-11eb-9f80-969b7bb29bca.PNG)
-[9](https://user-images.githubusercontent.com/16621556/117539770-14057280-b047-11eb-8177-954326ae6049.PNG)
-[10](https://user-images.githubusercontent.com/16621556/117539771-14057280-b047-11eb-9ec7-8f13fe9f3098.PNG)
-[12](https://user-images.githubusercontent.com/16621556/117539772-149e0900-b047-11eb-91ec-4c17d8cca283.PNG)
-[14](https://user-images.githubusercontent.com/16621556/117539773-149e0900-b047-11eb-876c-8b09955d4006.PNG)
-[15](https://user-images.githubusercontent.com/16621556/117539775-15369f80-b047-11eb-9057-ad13169f388f.PNG)
-[16](https://user-images.githubusercontent.com/16621556/117539776-15369f80-b047-11eb-936b-cdb712f5d7c0.PNG)
-[17](https://user-images.githubusercontent.com/16621556/117539777-15cf3600-b047-11eb-9881-c1f308d35a9e.PNG)
-[18](https://user-images.githubusercontent.com/16621556/117539780-15cf3600-b047-11eb-8266-9e1d2addc171.PNG)
+
+
